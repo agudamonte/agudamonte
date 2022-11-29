@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; I've a degree in accounting 📚, and I decided to change my professional career so I'm currently learning and exploring new technologies.
 - 🎓 &nbsp; Studying Tecnicatura en Programacion at Universidad Tecnologica Nacional - regional General Pacheco.
-- 💼 &nbsp; Working as a professional Web Developer - freelancer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
